@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OTimeline
+Comment=Filesystem Super-Timeline
+Exec=OTimeline
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OForensics;
